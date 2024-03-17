@@ -46,9 +46,9 @@ How to test the project:
 
 
 Technologies used:
-frontend : html,css,js
-Database : mysql db
-backend : java,jsp,xml 
-server : Apache tomcat server
+1. frontend : html,css,js
+2. Database : mysql db
+3. backend : java,jsp,xml 
+4. server : Apache tomcat server
 
 architecture diagram or flowchart:
