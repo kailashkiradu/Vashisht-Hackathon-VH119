@@ -35,7 +35,7 @@ Challenges we faced:
 
 Demo video link -
 
-Images - https://docs.google.com/document/d/12k2DY0eMKzxSPxEbCDziiKsh1xwZz-UA/editusp=sharing&ouid=111630910294398996697&rtpof=true&sd=true
+Images - https://docs.google.com/document/d/12k2DY0eMKzxSPxEbCDziiKsh1xwZz-UA edit usp=sharing&ouid=111630910294398996697&rtpof=true&sd=true
 
 How to test the project: 
 1. Download the zip file
