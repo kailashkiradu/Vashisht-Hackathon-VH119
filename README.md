@@ -52,4 +52,4 @@ Technologies used:
 3. backend : java,jsp,xml 
 4. server : Apache tomcat server
 
-architecture diagram or flowchart:
+Architecture diagram: https://docs.google.com/document/d/1FFmCI4vHPubOYdSrr53UH44B9GKrMpbC/edit?usp=sharing&ouid=111630910294398996697&rtpof=true&sd=true
