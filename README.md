@@ -1,5 +1,5 @@
 # Vashisht-Hackathon-VH119
-This repository contains solutions for the problem statements which we solved during the vashisht hackathon event. Team number - VH119
+This repository contains solutions for 2 problem statements which we solved during the vashisht hackathon event. Team number - VH119
 
 
 Team Details: 
@@ -8,6 +8,9 @@ TEAM NUMBER - VH119
 2. LAKSHMANAN V (laks22077.cs@rmkec.ac.in)
 3. JAGDISH E (jagd22048.cs@rmkec.ac.in)
 4. KAILASH NARAYAN KIRADU A (kail22057.cs@rmkec.ac.in)
+
+
+Project 1
 
 
 Title: TENDER ALLOCATION USING BLOCKCHAIN TECHNOLOGY
@@ -48,3 +51,46 @@ Technologies used:
 4. server : Apache tomcat server
 
 Architecture diagram: https://docs.google.com/document/d/1FFmCI4vHPubOYdSrr53UH44B9GKrMpbC/edit?usp=sharing&ouid=111630910294398996697&rtpof=true&sd=true
+
+
+
+Project 2
+
+Title: Machine Learning-Based Classification and Quantification of Deficiencies in Leaves
+
+
+Description:
+In our work to determine leaf nutrition deficiency , we used K-means algorithm to accurately classify and quantify leaf nutrient shortages in agriculture. The foundation of our work is a broad data set of high-resolution leaf pictures with different nutrient deficits. Effective classification is made possible by identifying different sorts of deficiencies based on visual patterns that are retrieved from the photos and combined with the K-means clustering technique.
+
+The problem it solves:
+The project addresses the challenge of labor-intensive and subjective methods for detecting nutrient deficiencies in plants by proposing an automated approach. By integrating techniques from image processing, machine learning, and clustering algorithms, it offers a scalable solution for efficient crop management.
+
+
+Use cases:
+1.	Agricultural Monitoring: Farmers can utilize the system to monitor nutrient deficiencies in crops, enabling timely interventions to improve crop health and yield.
+2.	Research: Plant scientists and agronomists can employ the tool for studying nutrient deficiencies in different plant species, facilitating research in crop improvement and sustainable agriculture.
+3.	Disease Management: The system helps differentiate between nutritional imbalances and disease infections, aiding in effective disease management strategies.
+
+Challenges encountered:
+1.	Data Acquisition: Obtaining diverse and labeled datasets of leaf images depicting nutrient deficiencies posed a challenge due to variability in plant species and environmental conditions.
+2.	Clustering Optimization: Determining the optimal number of clusters (k) in the K-Means algorithm required iterative experimentation and validation to achieve accurate segmentation.
+3.	Algorithm Selection: Evaluating the performance of various clustering algorithms and their suitability for nutrient deficiency detection in plant leaves required extensive analysis and comparison.
+   
+
+PPT - https://docs.google.com/presentation/d/1xq8RlhESvJdd_ndRtf3RlNTKk3amyEz0/edit?usp=sharing&ouid=111630910294398996697&rtpof=true&sd=true
+
+
+Demo video link - 
+
+Images - https://docs.google.com/document/d/14RDMDkAcm6u02nTb9PHZDSw608t6wzG_/edit?usp=sharing&ouid=111630910294398996697&rtpof=true&sd=true
+
+
+How to test the project: 
+
+
+
+Technologies used:
+
+
+
+Architecture diagram: 
