@@ -86,11 +86,18 @@ Images - https://docs.google.com/document/d/14RDMDkAcm6u02nTb9PHZDSw608t6wzG_/ed
 
 
 How to test the project: 
+It can by tested with google colab or jupiter or with any other platform as it is only a trained algorithm.
 
 
 
 Technologies used:
+1. Python
+2. OpenCV
+3. NumPy
+4. Scikit-learn
+5. Matplotlib
+6. Jupyter notebook/Google colab
 
 
 
-Architecture diagram: 
+Architecture diagram: https://docs.google.com/document/d/1o60lKa6WklGkOjJOggef4QGXUSawPwWl/edit?usp=sharing&ouid=111630910294398996697&rtpof=true&sd=true
