@@ -53,10 +53,13 @@ These forms of misconduct not only undermine the principles of transparency, fai
 **Architecture diagram:** https://docs.google.com/document/d/1FFmCI4vHPubOYdSrr53UH44B9GKrMpbC/edit?usp=sharing&ouid=111630910294398996697&rtpof=true&sd=true
 
 
-**
-Project 2
 
-Title: Machine Learning-Based Classification and Quantification of Deficiencies in Leaves**
+
+
+
+**Project 2**
+
+**Title: Machine Learning-Based Classification and Quantification of Deficiencies in Leaves**
 
 
 **Description:**
