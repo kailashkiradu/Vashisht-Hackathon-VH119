@@ -14,13 +14,21 @@ Project 1:
 
 Title: TENDER ALLOCATION USING BLOCKCHAIN TECHNOLOGY
 
+
 Description:
+Misconduct in some governance procedures, such as government tenders, includes info leaks, corruption, bribery, and so on. The majority of present electronic services and IT infrastructure have restrictions. So we introduce a permissioned block chain network can provide the transparency required to efficiently implement government regulations for the benefit of the country's population while also establishing obligations in the event of system misuse.
+
 
 The problem it solves:
+Misconduct in governance procedures, particularly in areas such as government tenders, can encompass various unethical or illegal activities. For example - Information leaks, corruption, bribery, conflict of interest, bid rigging, kickbacks, etc.,
+
+These forms of misconduct not only undermine the principles of transparency, fairness, and accountability but also result in wastage of public funds, substandard service delivery, and erosion of public trust in government institutions. Effective measures such as robust anti-corruption policies, transparent procurement processes, and independent oversight are essential to combatting such misconduct and promoting good governance.
+
 
 Use cases:
 
 ![UseCase](https://github.com/kailashkiradu/Vashisht-Hackathon-VH119/assets/119476446/4f448f60-4390-4bca-be6c-0df48305f913)
+
 
 
 Challenges we faced:
@@ -29,8 +37,18 @@ Demo video link -
 
 Images -
 
-How to test the project: 1. Download the project zip file 2. Extract the file and copy the folder 3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/Html) 4. Open PHPMyAdmin (http://localhost/phpmyadmin) 5. Create a database 6. Import demo.sql file(inside database folder) 7. Run the script http://localhost/folderName
+How to test the project: 
+Download the zip file
+extract the zip file 
+open the java enterprise edition latest and download the tomcat server
+open the folder section and import the directory of the source file
+then run index.jsp file
 
-Technologies used: 1.
+
+Technologies used:
+frontend : html,css,js
+Database : mysql db
+backend : java,jsp,xml 
+server : Apache tomcat server
 
 architecture diagram or flowchart:
