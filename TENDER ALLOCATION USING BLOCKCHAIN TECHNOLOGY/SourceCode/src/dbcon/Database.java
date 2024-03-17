@@ -13,7 +13,7 @@ public class Database {
 	try
 	{
 		Class.forName("com.mysql.jdbc.Driver");
-		con=DriverManager.getConnection("jdbc:mysql://localhost:3306/contract","root","root");
+		con=DriverManager.getConnection("jdbc:mysql://localhost:3306/contract","root","root"); // connection
 		
 	}catch(Exception e)
 	{
