@@ -1,5 +1,5 @@
 # Vashisht-Hackathon-VH119
-This repository contains solutions for 2 problem statements which we solved during the vashisht hackathon event. Team number - VH119
+This repository contains solutions for the problem statements which we solved during the vashisht hackathon event. Team number - VH119
 
 
 Team Details: 
@@ -9,8 +9,6 @@ TEAM NUMBER - VH119
 3. JAGDISH E (jagd22048.cs@rmkec.ac.in)
 4. KAILASH NARAYAN KIRADU A (kail22057.cs@rmkec.ac.in)
 
-
-Project 1:
 
 Title: TENDER ALLOCATION USING BLOCKCHAIN TECHNOLOGY
 
@@ -29,9 +27,6 @@ Use cases:
 
 ![UseCase](https://github.com/kailashkiradu/Vashisht-Hackathon-VH119/assets/119476446/4f448f60-4390-4bca-be6c-0df48305f913)
 
-
-
-Challenges we faced:
 
 Demo video link -
 
