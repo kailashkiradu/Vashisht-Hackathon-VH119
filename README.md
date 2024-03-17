@@ -28,7 +28,7 @@ Use cases:
 ![UseCase](https://github.com/kailashkiradu/Vashisht-Hackathon-VH119/assets/119476446/4f448f60-4390-4bca-be6c-0df48305f913)
 
 
-Demo video link -
+Demo video link - https://youtu.be/u6uK-asgKOc?si=FAM7--zDozCP_1b0
 
 Images - https://docs.google.com/document/d/12k2DY0eMKzxSPxEbCDziiKsh1xwZz-UA 
 
