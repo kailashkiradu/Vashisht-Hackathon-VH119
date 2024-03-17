@@ -38,11 +38,11 @@ Demo video link -
 Images -
 
 How to test the project: 
-Download the zip file
-extract the zip file 
-open the java enterprise edition latest and download the tomcat server
-open the folder section and import the directory of the source file
-then run index.jsp file
+1. Download the zip file
+2. extract the zip file 
+3. open the java enterprise edition latest and download the tomcat server
+4. open the folder section and import the directory of the source file
+5. then run index.jsp file
 
 
 Technologies used:
