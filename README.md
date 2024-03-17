@@ -9,13 +9,19 @@ TEAM NUMBER - VH119
 3. JAGDISH E (jagd22048.cs@rmkec.ac.in)
 4. KAILASH NARAYAN KIRADU A (kail22057.cs@rmkec.ac.in)
 
-Title:
+
+Project 1:
+
+Title: TENDER ALLOCATION USING BLOCKCHAIN TECHNOLOGY
 
 Description:
 
 The problem it solves:
 
 Use cases:
+
+![UseCase](https://github.com/kailashkiradu/Vashisht-Hackathon-VH119/assets/119476446/4f448f60-4390-4bca-be6c-0df48305f913)
+
 
 Challenges we faced:
 
