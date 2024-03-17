@@ -17,17 +17,17 @@ public interface inter {
 	
 	public int upload(uploadbean ub);
 	
-    public int detail(detailbean d);
+   	public int detail(detailbean d);
     
-    public int con(contractorbean cb);
+    	public int con(contractorbean cb);
 	
-    public boolean clog(contractorbean c);
+    	public boolean clog(contractorbean c);
     
-    public int request(requestbean rb);
+    	public int request(requestbean rb);
 
-    public int accept(acceptbean ab);
+    	public int accept(acceptbean ab);
     
-    public int pub(publiccom pb);
+    	public int pub(publiccom pb);
     
-    public int report(departreport dp);
+    	public int report(departreport dp);
 }
