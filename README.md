@@ -101,7 +101,29 @@ Both methods aim to detect and quantify nutrient deficiencies based on color var
 
 
 **How to test the project:** 
-It can by tested with google colab or jupiter or with any other platform as it is only a trained algorithm.
+Method 1
+1.	open google colab : https://colab.research.google.com/drive/15pNmUAK7_oNRJGbSz2vwTQ5240brsWZS 
+2.	click on “copy to drive“
+3.	download dataset : https://drive.google.com/drive/folders/128wQZEWcSHynUeIAh_OfL0IqKE6cWsOz 
+4.	run : 
+	from google.colab import drive
+	drive.mount('/content/drive')
+	
+5.	upload the dataset to your google drive 
+6.	chang image path : image_path = "/content/drive/MyDrive/photo/Phosphorus1.png"  dataset image path(from your google drive)
+7.	run the program
+
+Method 2 
+1.	download the project file from our repo
+2.	open the python file in your favourite IDE
+3.	install `matplotlib `, `OpenCV` and `scikit-learn` using the command
+	pip install matplotlib
+	pip install opencv-python
+	pip install scikit-learn
+4.	download dataset : https://drive.google.com/drive/folders/128wQZEWcSHynUeIAh_OfL0IqKE6cWsOz 
+5.	chang image path : image_path = "/content/drive/MyDrive/photo/Phosphorus1.png"  dataset image path(from your computer)
+6.	run the program 
+
 
 
 
