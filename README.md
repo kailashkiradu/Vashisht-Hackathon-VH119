@@ -95,7 +95,7 @@ Both methods aim to detect and quantify nutrient deficiencies based on color var
 **PPT** - https://docs.google.com/presentation/d/1xq8RlhESvJdd_ndRtf3RlNTKk3amyEz0/edit?usp=sharing&ouid=111630910294398996697&rtpof=true&sd=true
 
 
-**Demo video link** - 
+**Demo video link** - https://youtu.be/ubXPvHBi5nw?si=5alsoEXXLZ6pU7L2
 
 **Images** - https://docs.google.com/document/d/14RDMDkAcm6u02nTb9PHZDSw608t6wzG_/edit?usp=sharing&ouid=111630910294398996697&rtpof=true&sd=true
 
